@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Hi. I'm Caroline.</h2>
+<p>It's February 4th in 2022 and I am a student at GCU.</p>
+
+<p>I am currently in my fourth semester and still majoring in Biology with an Emphasis in Pre-Med, 
+however, I recently took on Cybersecurity as a minor because I'm not sure what I want to do with my life.
+At the moment, one of my focuses is saving up for an iPad so that I can pursue my interest in drawing as
+well as use it for school-related tasks. I'm excited to be able to write directly onto Word documents and
+PDFs because I feel it will allow me to better engage with the material as well as submit assignments easier.
+After I get an iPad, I will begin saving up for an adjustable/standing desk. If you have not heard of
+it before, it is merely a desk in which you can adjust the height. One little setback in my buying an iPad,
+and consequently an adjustable desk, is my purchase of handmade spoons from South Korea. I bought three and they
+are all incredibly cute, and I plan on gifting two of them to two of my closest friends.
+
+<h3>Some hobbies I'd like to learn:</h3>
+<u1>
+	<li>Punch Needling</li>
+	<li>Sticker Making</li>
+	<li>Rug Tufting</li>
+</ul>
+
+<p style="color:purple;">I don't have a favorite color but purple is nice.</p>
+
+<h3>Random Links!</h3>
+	<a href="http://www.espn.com">ESPN</a>
+</body>
+</html>
+	<a href="register.html">Click here to register!</a>
+	<a href="math.html">Click here to do some math!</a>
+	<a href="slideshow.html">Click here to enjoy a quick but cool slideshow!</a>
+	<a href="image.html">Click here to do some steganography!</a>
+	<a href="https://www.bandlab.com/revisions/fc64373c-e4b3-ec11-997e-0050f280f352?sharedKey=bcgbEziU9kq2K8nEBe0J8w">My sick 
+soundtrack ♫</a>
+
+<h2>Magic!</h2>
+<img src="magicalthings.gif" alt="You're a wizard, Harry." width="300" height="100"
+
+	  
+</body>
+</html>
+
+<table border = "1">
+         <tr>
+            <th>City</th>
+            <th>Years</th>
+         </tr>
+         <tr>
+            <td>Glendale</td>
+            <td>20</td>
+         </tr>
+      </table>
+	 
